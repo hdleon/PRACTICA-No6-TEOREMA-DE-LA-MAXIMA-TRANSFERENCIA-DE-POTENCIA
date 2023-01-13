@@ -22,7 +22,7 @@ Henrry Leon
 
 **5.2. MARCO TEORICO:**
 
-![Teorema de la Máxima Transferencia de Potencia](https://user-images.githubusercontent.com/116777118/212360054-142493e1-3775-4897-bdb3-73bb177df8f7.png)
+![Teorema de la Máxima Transferencia de Potencia (1)](https://user-images.githubusercontent.com/116777118/212371750-cc906939-b1cd-4a0e-9e77-195789d62043.png)
 
 • *Fuente de Voltaje de C.D.:* Dispositivo que a partir de la tensión de red pueden proporcionar una señal de tensión continúa para alimentar al circuito.
 
