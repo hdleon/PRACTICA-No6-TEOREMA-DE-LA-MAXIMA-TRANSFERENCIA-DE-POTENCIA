@@ -61,6 +61,18 @@ Use la ley de Ohm (I = V/R) y la fórmula de la potencia (P = I2R) para determin
 
 ![image](https://user-images.githubusercontent.com/116777118/212361734-233977ec-7805-4e06-b70a-d3af294467c0.png)
 
+Tabla correspondiente a las respectivas mediciones. 
+
+![image](https://user-images.githubusercontent.com/116777118/212367521-e4d1b7f1-065d-489b-99d6-4654e6d32ca6.png)
+
+Errores de Cálculo: 
+
+![image](https://user-images.githubusercontent.com/116777118/212367843-18a53068-f5f7-42c5-a6cf-3b5418e5d574.png)
+
+Los errores de cálculo están comparados con el medido experimentalmente, ya que la simulación arrojó los mismos valores. 
+
+![image](https://user-images.githubusercontent.com/116777118/212368146-86ec21d7-45b7-465b-8b46-01b3c4f20155.png)
+
 **5.4. VIDEO**
 
 
@@ -75,23 +87,4 @@ Use la ley de Ohm (I = V/R) y la fórmula de la potencia (P = I2R) para determin
 ● Las medidas realizadas con el osciloscopio varían de las realizadas con el multímetro debido a la diferente escala con la que se mide; en la medición con el osciloscopio se introduce un error humano ya que el instrumento es análogo y variará dependiendo de la percepción del observador, pero esta variación será mínima.
 
 ● La sensibilidad y la escala son directamente proporcionales, mientras que la resolución y la escala son inversamente proporcionales.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
