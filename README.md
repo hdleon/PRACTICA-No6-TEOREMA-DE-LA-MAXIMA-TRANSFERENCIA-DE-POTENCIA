@@ -84,6 +84,7 @@ Los errores de cálculo están comparados con el medido experimentalmente, ya qu
 
 **6.4. VIDEO**
 
+https://youtu.be/Rof__k9KPNg
 
 **6.5. CONCLUSIONES**
 
